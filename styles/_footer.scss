@@ -1,0 +1,13 @@
+.foot{
+    background-color: $navColor;
+    overflow: hidden;
+    position: fixed;
+    left: 0;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    padding: 14px;
+    p{
+        color: $navLinks;
+    }
+}
